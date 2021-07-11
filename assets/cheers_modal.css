@@ -35,7 +35,7 @@
 
 .oen-task-panel {
     display: none;
-    border-radius: 2px;
+    border-radius: 8px;
     background-color: #fff;
     box-shadow: 1px 1px 50px rgba(0,0,0,.3);
     animation-fill-mode: both;
@@ -44,7 +44,7 @@
     height: 309.361px;
     position: absolute;
     top: 163.991px;
-    right: 274.545px;
+    right: 30%;
     width: 400px;
 }
 
